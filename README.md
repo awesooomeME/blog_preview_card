@@ -28,8 +28,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/awesooomeME/blog_preview_card)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
-- Fronentmentor Solution URL: [Solution]()
+- Live Site URL: [Live Site](https://blog-preview-card-ten.vercel.app/)
+- Fronentmentor Solution URL: [Solution](https://www.frontendmentor.io/solutions/blog-preview-card-with-nextjs-VYW2fRiZ_x)
 
 ## My process
 
